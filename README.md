@@ -27,14 +27,6 @@ Crafting fast, typed, and beautiful user experiences. I build clean, performant 
 &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3m5&layout=compact&theme=tokyonight)](https://github.com/J3m5)
 
-<!-- Pinned repositories -->
-[![Readme Card for oxc](https://github-readme-stats.vercel.app/api/pin/?username=J3m5&repo=oxc&theme=tokyonight)](https://github.com/J3m5/oxc)
-[![Readme Card for api-doc-parser](https://github-readme-stats.vercel.app/api/pin/?username=J3m5&repo=api-doc-parser&theme=tokyonight)](https://github.com/J3m5/api-doc-parser)
-[![Readme Card for react-esi](https://github-readme-stats.vercel.app/api/pin/?username=J3m5&repo=react-esi&theme=tokyonight)](https://github.com/J3m5/react-esi)
-
-<!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=J3m5&style=flat-square" alt="Profile views" />
-
 ---
 
 ## 🚀 Favorite projects
